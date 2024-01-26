@@ -6,10 +6,8 @@ This started as a random [~~tweet~~ X](https://twitter.com/_pi0_/status/17509588
 don't do anything, would it be an eternal fight between library authors that care to add those warning lines and developers that
 either ignore them or have no choice but to ignore them. And we love to know why. And who is to point fingers to?
 
-### [💬 reddit post](https://www.reddit.com/r/javascript/comments/1abstsi/why_do_javascript_developers_ignore_warnings/)
-
-> [!WARNING]
-> (seriously a warning!) The proposed solution in this project is only for fun not intended to be used in any production package. Please 1) chill 2) don't use any of it for your projects! 3) if have an idea how to approach root causes of main issue, share.
+> [!NOTE]
+> The proposed solution in this project is only for fun not intended to be used in any production package.
 
 ## 🙇 Have you come from a console warning here?
 
