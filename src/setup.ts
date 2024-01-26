@@ -1,0 +1,3 @@
+import { setupConsole } from ".";
+
+setupConsole();
