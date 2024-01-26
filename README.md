@@ -6,7 +6,7 @@ This started as a random [~~tweet~~ X](https://twitter.com/_pi0_/status/17509588
 don't do anything, would it be an eternal fight between library authors that care to add those warning lines and developers that
 either ignore them or have no choice but to ignore them. And we love to know why. And who is to point fingers to?
 
-#### [💬 reddit thread](https://www.reddit.com/user/pooya-parsa/comments/1abs77l/why_do_javascript_developers_ignore_warnings/)
+### [💬 reddit post](https://www.reddit.com/r/javascript/comments/1abstsi/why_do_javascript_developers_ignore_warnings/)
 
 ## 🙇 Have you come from a console warning here?
 
