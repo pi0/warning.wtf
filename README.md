@@ -1,12 +1,10 @@
-<center>
-<h1>⚠️ <a href="https://warning.wtf">warning.wtf</a> ⚠️ </h1>
-</center>
+<h1 align="center">⚠️ <a href="https://warning.wtf">warning.wtf</a> ⚠️ </h1>
 
-Everyday, we developers see dozens of warnings and choose to ignore them (or do we have a choice?).
+Every day, we developers see dozens of warnings and choose to ignore them (or do we have a choice?).
 
-This started as a random [~~tweet~~ X](https://twitter.com/_pi0_/status/1750958827359351155) but then i thought, if we don't
-don't do anything, would it be an ethernal fight between library authors that care to add those warning lines and developers that
-either ignore them or have no choice but to ignore them. And we love to know why. And who is to point fingure to?
+This started as a random [~~tweet~~ X](https://twitter.com/_pi0_/status/1750958827359351155) but then I thought, if we don't
+don't do anything, would it be an eternal fight between library authors that care to add those warning lines and developers that
+either ignore them or have no choice but to ignore them. And we love to know why. And who is to point fingers to?
 
 ## 👉 Have you come from a console warning here?
 
@@ -34,7 +32,7 @@ require("warntf/setup");
 
 ## ❓ How it works
 
-When `warntf/setup` is imported, we hook to `console.warn` calls from any library and after each 5 warnings by default, we show this warning.
+When `warntf/setup` is imported, we hook to `console.warn` calls from any library, and after every 5 warnings by default, we show this warning.
 
 <img width="621" alt="image" src="https://github.com/pi0/warning.wtf/assets/5158436/927d402a-cd5a-4539-b210-f495200269a7">
 
@@ -47,7 +45,7 @@ There is not much but there are two:
 
 ## 🙌 Join the effort!
 
-Do you have ideas to improve this project or how else we can approach?
+Do you have ideas to improve this project or how else we can approach it?
 
 Use [issues](https://github.com/pi0/warning.wtf/issues) or [discussions](https://github.com/pi0/warning.wtf/discussions) to join the crew!
 
@@ -56,7 +54,7 @@ Use [issues](https://github.com/pi0/warning.wtf/issues) or [discussions](https:/
 ## Development
 
 - Clone this repository
-- Install latest LTS version of [Node.js](https://nodejs.org/en/)
+- Install the latest LTS version of [Node.js](https://nodejs.org/en/)
 - Enable [Corepack](https://github.com/nodejs/corepack) using `corepack enable`
 - Install dependencies using `pnpm install`
 - Test with `pnpm play`
