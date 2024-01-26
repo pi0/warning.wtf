@@ -6,11 +6,11 @@ This started as a random [~~tweet~~ X](https://twitter.com/_pi0_/status/17509588
 don't do anything, would it be an eternal fight between library authors that care to add those warning lines and developers that
 either ignore them or have no choice but to ignore them. And we love to know why. And who is to point fingers to?
 
-## 👉 Have you come from a console warning here?
+## 🙇 Have you come from a console warning here?
 
 We love to hear your opinion. Please share them [in this discussion](https://github.com/pi0/warning.wtf/discussions/1).
 
-And sorry for sorry for disturbing you. You can disable this if you want just set `NO_WTF_WARN` environment variable or put this in your code
+And sorry for disturbing you 🙇. You can disable this if you want just set `NO_WTF_WARN` environment variable or put this in your code
 
 ```js
 globalThis.NO_WTF_WARN = true;
@@ -32,7 +32,7 @@ require("warntf/setup");
 
 ## ❓ How it works
 
-When `warntf/setup` is imported, we hook to `console.warn` calls from any library, and after every 5 warnings by default, we show this warning.
+When `warntf/setup` is imported, we hook to `console.warn` calls from any library, and after every 5 warnings by default, we show a warning to users. ([source](./src/index.ts))
 
 <img width="621" alt="image" src="https://github.com/pi0/warning.wtf/assets/5158436/927d402a-cd5a-4539-b210-f495200269a7">
 
