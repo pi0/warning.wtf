@@ -8,6 +8,9 @@ either ignore them or have no choice but to ignore them. And we love to know why
 
 ### [💬 reddit post](https://www.reddit.com/r/javascript/comments/1abstsi/why_do_javascript_developers_ignore_warnings/)
 
+> [!WARNING]
+> (seriously a warning!) The proposed solution in this project is only for fun not intended to be used in any production package. Please 1) chill 2) don't use any of it for your projects! 3) if have an idea how to approach root causes of main issue, share.
+
 ## 🙇 Have you come from a console warning here?
 
 We love to hear your opinion. Please share them [in this discussion](https://github.com/pi0/warning.wtf/discussions/1).
